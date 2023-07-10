@@ -14,6 +14,7 @@ pip install pandas
 
 Documentação selenium: https://selenium-python.readthedocs.io/index.html
 
+Foi utilizado o Google Chrome para coleta dos dados.
 Sempre verifique a versão do Chrome instalado na sua máquina em: ajuda > Sobre o Google Chrome. <br>
 Baixar a versão do webdriver correspondente a que você esteja utilizando no Chrome:<br>
 https://chromedriver.chromium.org/downloads
