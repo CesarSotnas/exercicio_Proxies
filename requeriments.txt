@@ -1,5 +1,8 @@
-[Selenium](https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/)
+Selenium
+https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/
 
-[Webdriver_manager](https://pypi.org/project/webdriver-manager/)
+Webdriver_manager
+https://pypi.org/project/webdriver-manager/
 
-[Pandas](https://pandas.pydata.org/getting_started.html)
+Pandas
+https://pandas.pydata.org/getting_started.html
